@@ -18,18 +18,18 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sure,Of Code! # the main title
+title: Dev-diver # the main title
 
-tagline: May the Code be with you # it will display as the sub-title
+tagline: May the Source be with you # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   차근차근 쌓아가는 개발일지. 나도 언젠가 척척개발자가 되겠지
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://sure-ofcode.github.io/"
+url: "https://dev-diver.github.io/"
 
 github:
-  username: Sure-OfCode # change to your github username
+  username: dev-diver # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
-    - https://github.com/Sure-OfCode # change to your github homepage
+    - https://github.com/dev-diver # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
